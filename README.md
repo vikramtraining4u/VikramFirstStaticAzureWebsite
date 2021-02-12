@@ -1,0 +1,2 @@
+# VikramFirstStaticAzureWebsite
+Azure Static Website
